@@ -13,7 +13,7 @@ I am an aspiring iOS developer. I've been studying iOS development since 2022 an
 ### Contacts
 
 <p align="left">
-<a href="https://instagram.com/http://www.instagram.com/dimabulgakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/dimabulgakov" height="40" width="40" /></a>
+<a href="https://www.instagram.com/dimabulgakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/dimabulgakov" height="40" width="40" /></a>
 
 <a align="left">
 <a href="https://t.me/dima_bulgakov" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="https://t.me/dima_bulgakov" height="40" width="40" /></a>
