@@ -5,12 +5,13 @@ iOS Developer
 I am an aspiring iOS developer. I've been studying iOS development since 2022 and I really want to become a professional developer and create cool apps. I am currently looking for a job as a Junior Developer  
 
 
-### Languages and Tools  
+### Languages <!-- and Tools -->
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 <p align="left">  
+ <!--
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> 
-</a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
+</a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> -->
 
 [![GPLv3 License](https://img.shields.io/badge/-UIKit-orange)](https://developer.apple.com/documentation/uikit)
 
@@ -18,10 +19,10 @@ I am an aspiring iOS developer. I've been studying iOS development since 2022 an
 
  
 ### Contacts
-
+<!--
 <p align="left">
 <a href="https://www.instagram.com/dimabulgakov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/dimabulgakov" height="40" width="40" /></a>
-
+-->
 <a align="left">
 <a href="https://t.me/dima_bulgakov" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="https://t.me/dima_bulgakov" height="40" width="40" /></a>
   
