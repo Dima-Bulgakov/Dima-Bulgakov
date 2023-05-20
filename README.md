@@ -54,6 +54,10 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
  ## Programming learning
 
 - SwiftBook
+ 
+- Book A Mind for Numbers
+ 
+- Book Code Complete
 
 - YouT﻿ube Ian Solomein: "Basics of Swift"
 
@@ -71,6 +75,3 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
  
 - YouT﻿ube SimpleDEV and others
  
-- Book A Mind for Numbers
- 
-- Book Code Complete
