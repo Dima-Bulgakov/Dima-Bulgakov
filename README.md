@@ -24,6 +24,8 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
  
 - Lifecycle
  
+- ACR
+ 
 - URLSession, JSON
  
 - Design patterns
