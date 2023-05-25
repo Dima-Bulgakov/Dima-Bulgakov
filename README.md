@@ -16,7 +16,7 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
 
 - Basic knowledge and understanding of main constructs of Swift programming language
 
-- Experience with UIKit and Autolayouts
+- UIKit
 
 - S.O.L.I.D.
 
