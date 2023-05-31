@@ -12,7 +12,7 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
 <p align="left">  
  
  
-## Skills
+## Skills.
 
 - Basic knowledge and understanding of main constructs of Swift programming language
 
