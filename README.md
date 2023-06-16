@@ -7,6 +7,7 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
 ## CV
 [CV_Bulgakov_iOSDeveloper_junior.pdf](https://github.com/Dima-Bulgakov/Dima-Bulgakov/files/11453425/CV_Bulgakov_iOSDeveloper_junior.pdf)
 
+
 ## Languages <!-- and Tools -->
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 <p align="left">  
