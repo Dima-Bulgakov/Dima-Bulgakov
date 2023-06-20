@@ -1,6 +1,6 @@
 Hi 👋 My name is Dima 
 =====================  
-iOS Developer .
+iOS Developer 
 -------------  
 I am a beginner iOS developer. I've been studying iOS development since 2022 and I really want to become a professional developer and create cool apps. I am currently looking for a job as a Junior Developer. I have a desire to learn and explore new technologies and architectures
 
