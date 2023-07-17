@@ -19,6 +19,8 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
 
 - UIKit
 
+- SwiftUI
+
 - S.O.L.I.D.
 
 - OOP principles
