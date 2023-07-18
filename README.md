@@ -5,7 +5,7 @@ iOS Developer
 I am a beginner iOS developer. I've been studying iOS development since 2022 and I really want to become a professional developer and create cool apps. I am currently looking for a job as a Junior Developer. I have a desire to learn and explore new technologies and architectures
 
 ## CV
-[CV_Bulgakov_iOSDeveloper_junior.pdf](https://github.com/Dima-Bulgakov/Dima-Bulgakov/blob/37b5af6ca7fdfb5cc92e62a235a7510d78987eea/CV_iOSDeveloper_Bulgakov.pdf)
+[CV_Bulgakov_iOS_Developer.pdf](https://github.com/Dima-Bulgakov/Dima-Bulgakov/blob/3e85b6e47ab7d1cfb7b776b9b37ec78a8f1b6554/CV_iOS_Developer_Bulgakov.pdf)
 
 
 ## Languages <!-- and Tools -->
