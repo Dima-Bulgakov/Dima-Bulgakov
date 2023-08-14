@@ -35,7 +35,9 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
  
 - UserDefaults, Core Data
  
-- Firebase 
+- Firebase
+
+- Concurrency GCD & Dispatch Queues
 
 
 ## Contacts
