@@ -21,6 +21,8 @@ I am a beginner iOS developer. I've been studying iOS development since 2022 and
 
 - SwiftUI
 
+- Architecture MVC MVVM
+
 - S.O.L.I.D.
 
 - OOP principles
