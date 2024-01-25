@@ -2,10 +2,6 @@ Hi 👋 My name is Dima
 =====================  
 iOS Developer 
 -------------  
-I am a beginner iOS developer. I've been studying iOS development since 2022 and I really want to become a professional developer and create cool apps. I am currently looking for a job as a Junior Developer. I have a desire to learn and explore new technologies and architectures.
-
-## CV
-[CV_iOSDeveloper_Bulgakov.pdf](https://github.com/Dima-Bulgakov/Dima-Bulgakov/blob/788632702fb4d780aecfba35ba6645856f81138d/CV_%EF%A3%BFiOSDeveloper_Bulgakov.pdf)
 
 
 ## Languages <!-- and Tools -->
