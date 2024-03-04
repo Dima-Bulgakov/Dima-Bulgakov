@@ -2,7 +2,9 @@ Hi 👋 My name is Dima
 =====================  
 iOS Developer 
 -------------  
+I started programming in September 2021, transitioning from a career in architecture. I began with UIKit and later moved on to SwiftUI. 
 
+I have commercial experience in developing a project from start to finish—an offline music app that allows importing music in different ways. Now, I'm looking for a new job as an iOS Developer to apply my skills in designing and developing apps.
 
 ## Languages <!-- and Tools -->
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
@@ -11,31 +13,19 @@ iOS Developer
  
 ## Skills
 
-- Basic knowledge and understanding of main constructs of Swift programming language
+- Swift
 
 - UIKit
 
 - SwiftUI
 
-- Architecture MVC MVVM
-
-- S.O.L.I.D.
-
-- OOP principles
+- MVVM
  
 - Lifecycle
  
-- ACR
- 
-- URLSession, JSON
- 
-- Design patterns
- 
-- UserDefaults, Core Data
+- Realm
  
 - Firebase
-
-- Concurrency GCD & Dispatch Queues
 
 
 ## Contacts
